@@ -1,0 +1,19 @@
+#root {
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+  height: 100vh;
+}
+
+h1,h2,h3,h4 {
+  color: #1a1a1a;
+}
+
+.ant-form-item-label {
+  text-align: left;
+}
+
+.ant-form-item {
+  width: 100%;
+}
+
